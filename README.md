@@ -45,19 +45,16 @@ if __name__ == '__main__':
     me = HarshButani()
 ```
 
-<!-- <div align="center">
-  <a href="https://open.spotify.com/user/312n557b7iamkgirhjhhthn5ejhu">
-    <img src="now-playing-https://novatorem-harshbutani1801.vercel.app/api/spotify-playing" alt="harshbutani1801" width="350" />
-  </a>
-</div> -->
-
 <br>
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
+
+
+<br>
 
 
 ## My Statistics
