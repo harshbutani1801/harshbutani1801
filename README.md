@@ -23,8 +23,8 @@ Hey, I'm <b>Harsh Butani</b>, a student currently living in Ahmedabad, India. I'
 <div align="center">
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/-FLUTTER-c58545?style=for-the-badge&logo=flutter&logoColor=c58545&labelColor=282828"></a>
   <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/-ANDROID-d1a01f?style=for-the-badge&logo=android&logoColor=d1a01f&labelColor=282828"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-98b982?style=for-the-badge&logo=html5&logoColor=98b982&labelColor=282828"></a>
-  <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/-JAVA-d1a01f?style=for-the-badge&logo=java&logoColor=d1a01f&labelColor=282828"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML & CSS-98b982?style=for-the-badge&logo=html5&logoColor=98b982&labelColor=282828"></a>
+  <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/-JAVASCRIPT-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828"></a>
 </div>
 </p>
 
@@ -48,16 +48,6 @@ if __name__ == '__main__':
 
 <br>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-
-<br>
-
-
 ## My Statistics
 
 <br/>
@@ -70,6 +60,6 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Harsh Butani' Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshbutani1801&custom_title=Harsh%20Butani's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://harshbutani.infinityfreeapp.com/Index.html)
+<!-- [![Harsh Butani' Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshbutani1801&custom_title=Harsh%20Butani's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://harshbutani.infinityfreeapp.com/Index.html) -->
 
 
